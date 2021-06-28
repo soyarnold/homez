@@ -3,4 +3,4 @@
 Uses the US Real Estate API to fetch $1 million+ family homes sold within the last 30 days in San Francisco, California. 
 _not complete_
 
-![homez-screenshot](https://github.com/soyarnold/homez/blob/main/HOMEZ-screenshot.png)
+![homez-screenshot](https://raw.githubusercontent.com/soyarnold/homez/main/homez-preview.png)
